@@ -1,0 +1,12 @@
+.konami {
+    padding-top: 300px;
+    background-color: #020e64;
+    background-image: url(plateforme.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+
+body {
+    height: 100vh;
+}
