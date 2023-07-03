@@ -1,0 +1,21 @@
+.container_response {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid; 
+    width: 804px; 
+    height: 399px;
+}
+
+.container_response div {
+    border: 1px solid;
+    width:134px; 
+    height: 399px;
+}
+
+.green-text {
+    color: green;
+}
+
+.red-text {
+    color: red;
+}
