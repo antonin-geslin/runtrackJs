@@ -5,6 +5,5 @@ $('#button').on("click", function () {
     } else {
         $('#citation').text('');
     }
-
 });
 });

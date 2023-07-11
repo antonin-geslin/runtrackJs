@@ -5,9 +5,7 @@
     <script src="script.js" defer></script>
 </head>
 <body>
-    <article id="citation">
-        "La vie a beaucoup plus d’imagination que nous".
-    </article>
     <button id="button">Afficher la citation</button>
+    <p id="citation"></p>
 </body>
 </html>
